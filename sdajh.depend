@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1523577928 source:c:\users\ccne\documents\sdajh\sdfj.cpp
+	<iostream>
+	<string>
+	<windows.h>
+	<cstdlib>
+	"BanChoi.h"
+
+1523577991 source:c:\users\ccne\documents\sdajh\banchoi.cpp
+	"BanChoi.h"
+	<iostream>
+	<string>
+	<windows.h>
+	<cstdlib>
+
+1523577982 c:\users\ccne\documents\sdajh\banchoi.h
+	<iostream>
+	<string>
+	<windows.h>
+	<cstdlib>
+
+1523577991 source:c:\users\ccne\documents\domin\banchoi.cpp
+	"BanChoi.h"
+	<iostream>
+	<string>
+	<windows.h>
+	<cstdlib>
+
+1523577982 c:\users\ccne\documents\domin\banchoi.h
+	<iostream>
+	<string>
+	<windows.h>
+	<cstdlib>
+
+1523577928 source:c:\users\ccne\documents\domin\sdfj.cpp
+	<iostream>
+	<string>
+	<windows.h>
+	<cstdlib>
+	"BanChoi.h"
+
